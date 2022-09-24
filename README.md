@@ -1,2 +1,3 @@
-# ArithmeticFormatter
-This project I've done as an assignement in Scientific Computing with Python Course on freecodecamp.org.
+# Arithmetic Formatter
+
+This is the boilerplate for the Arithmetic Formatter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
